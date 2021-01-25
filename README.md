@@ -1,3 +1,3 @@
 # Mobiiliohjelmointi
 
-Java android
+Tampereen yliopiston järjestämä kurssi mobiiliohjelmoinnista.
